@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+Simulation and Serious Game
 
-You can use the [editor on GitHub](https://github.com/Hanegwen/SSG/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Mike Morrone
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Team Game Prototype
 
-### Markdown
+You and your team must decide how to divide leadership roles and responsibilities.  In this game you will all go through and figure out how you guys are as a team and your streangths and weaknesses.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+How this game works is all of you must go one game at a time and divide based upon how many players to see how the games work and what is your strong suits.
 
-```markdown
-Syntax highlighted code block
+Memory
 
-# Header 1
-## Header 2
-### Header 3
+You have to study for an upcoming test but you only know how to study via games.  The goal of this game is for you to play while you also get to study.
 
-- Bulleted
-- List
+Go through and select the tiles that corrispond to the correct answer.
 
-1. Numbered
-2. List
+Empathy
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hanegwen/SSG/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The goal of this game is to understand how others feel.  Empathy is what makes us human.  Go through and play the game of a day in high school and see what it's like for this person.
