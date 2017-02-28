@@ -16,6 +16,8 @@ You have to study for an upcoming test but you only know how to study via games.
 
 Go through and select the tiles that corrispond to the correct answer.
 
+The big way this changed pver time was simplicity became king.  I simplified the design to make it act like a prototype then a finished game.
+
 (Click Memory Game) 
 
 Empathy
