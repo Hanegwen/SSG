@@ -17,6 +17,9 @@ You have to study for an upcoming test but you only know how to study via games.
 Go through and select the tiles that corrispond to the correct answer.
 
 (Click Memory Game) 
+
 Empathy
 
 The goal of this game is to understand how others feel.  Empathy is what makes us human.  Go through and play the game of a day in high school and see what it's like for this person.
+
+(More To Come)
